@@ -1,0 +1,10 @@
+body{
+	background-image:url(./background.png);
+	background-repeat: repeat;
+	background-position: center;
+}
+img{
+	position: fixed;
+	left: 50%;
+	transform: translateX(-50%);
+}
